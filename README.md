@@ -111,13 +111,9 @@ ESP8266 → every 60s sends data to ThingSpeak cloud
 ## 📁 Project Structure
 
 ```
-smart-fan-system/
-├── src/
-│   └── smart_fan_system.ino   ← main Arduino sketch
-├── docs/
-│   └── wiring_diagram.png     ← (add your diagram here)
-├── README.md
-└── LICENSE
+Smart-Fan-System/
+├── smart_fan_system.ino   ← main Arduino sketch
+└── README.md
 ```
 
 ---
@@ -134,10 +130,5 @@ smart-fan-system/
 
 ---
 
-## 📜 License
-
-MIT License — free to use, modify, and distribute.
-
 ---
-
-*Built for learning embedded systems & IoT. Perfect for TEKNOFEST and university projects.*
+**Author:** Serhat Tay
