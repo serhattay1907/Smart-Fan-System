@@ -1,0 +1,7 @@
+# Arduino / PlatformIO build output
+build/
+.pio/
+.vscode/
+.DS_Store
+# Local secrets (Wi-Fi password, API keys)
+secrets.h
